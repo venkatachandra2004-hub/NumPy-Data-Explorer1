@@ -47,4 +47,4 @@ start = time.time()
 np_result = np_array * 2
 end = time.time()
 print("NumPy Array Time:", end - start)
-print("\n✅ NumPy is faster than Python lists for large data!")
+print("\n NumPy is faster than Python lists for large data!")

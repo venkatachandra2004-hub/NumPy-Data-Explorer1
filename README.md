@@ -1,0 +1,1 @@
+NumPy Data Explorer is designed to help users quickly load, inspect, and perform operations on numerical datasets. It is especially useful for beginners learning data analysis and for developers who want a lightweight tool for numerical exploration.
